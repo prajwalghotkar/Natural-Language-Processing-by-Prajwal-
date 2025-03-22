@@ -1,4 +1,4 @@
-# Natural Language Processing (by Prajwal)
+# Natural Language Processing 
 
   NLP involves analyzing and processing human language data—both written and spoken—to extract meaning and insights. It encompasses various tasks such as:
 * Text Summarization: Condensing longer texts into shorter forms while retaining key information.
